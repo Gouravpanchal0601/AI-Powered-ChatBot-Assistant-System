@@ -93,8 +93,8 @@ Contributions, suggestions, and improvements are welcome! Feel free to open an i
 ## 📬 Contact
 
 For any questions or collaborations:  
-**Email:** gourav.panchal0601@gmail.com  
-**GitHub:** [](https://github.com/Gouravpanchal0601)
+**Email:** [Gourav Panchal - Mail](gourav.panchal0601@gmail.com)  
+**GitHub:** [Gourav Panchal - Github](https://github.com/Gouravpanchal0601)
 
 ---
 
