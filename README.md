@@ -34,8 +34,8 @@ An **AI Chatbot Assistant** with persistent memory, external tool integration, a
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ai-chatbot-assistant.git
-    cd ai-chatbot-assistant
+    git clone [https://github.com/Gouravpanchal0601/AI-Powered-ChatBot-Assistant-System](https://github.com/Gouravpanchal0601/AI-Powered-ChatBot-Assistant-System)
+    cd AI-Powered-ChatBot-Assistant-System
     ```
 2. Create and activate a virtual environment:
     ```bash
@@ -49,7 +49,7 @@ An **AI Chatbot Assistant** with persistent memory, external tool integration, a
     ```
 4. Run the application:
     ```bash
-    streamlit run app.py
+    streamlit run streamlit_frontend_tool.py
     ```
 
 ---
@@ -66,21 +66,12 @@ An **AI Chatbot Assistant** with persistent memory, external tool integration, a
 
 ---
 
-
----
-
 ## 🌟 Future Enhancements
 
 - Support for additional external tools (e.g., Weather API, Calendar)  
 - Improved RAG with semantic search  
 - Multi-user session management  
 - Enhanced UI with theme customization  
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
