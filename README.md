@@ -34,7 +34,7 @@ An **AI Chatbot Assistant** with persistent memory, external tool integration, a
 
 1. Clone the repository:
     ```bash
-    git clone [https://github.com/Gouravpanchal0601/AI-Powered-ChatBot-Assistant-System](https://github.com/Gouravpanchal0601/AI-Powered-ChatBot-Assistant-System)
+    git clone https://github.com/Gouravpanchal0601/AI-Powered-ChatBot-Assistant-System
     cd AI-Powered-ChatBot-Assistant-System
     ```
 2. Create and activate a virtual environment:
