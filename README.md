@@ -30,12 +30,6 @@ An **AI Chatbot Assistant** with persistent memory, external tool integration, a
 
 ---
 
-## 🎨 UI Preview
-
-![UI Screenshot](link-to-your-screenshot.png)  
-
----
-
 ## 💻 Installation
 
 1. Clone the repository:
