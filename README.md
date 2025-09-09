@@ -66,5 +66,36 @@ An **AI Chatbot Assistant** with persistent memory, external tool integration, a
 
 ---
 
-## 📂 Project Structure
 
+---
+
+## 🌟 Future Enhancements
+
+- Support for additional external tools (e.g., Weather API, Calendar)  
+- Improved RAG with semantic search  
+- Multi-user session management  
+- Enhanced UI with theme customization  
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🤝 Contributions
+
+Contributions, suggestions, and improvements are welcome! Feel free to open an issue or submit a pull request.
+
+---
+
+## 📬 Contact
+
+For any questions or collaborations:  
+**Email:** gourav.panchal0601@gmail.com  
+**GitHub:** [](https://github.com/Gouravpanchal0601)
+
+---
+
+**Made with ❤️ using OpenAI, LangChain, and Streamlit**
